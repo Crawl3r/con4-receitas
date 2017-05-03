@@ -34,5 +34,7 @@ Aplicativo de receitas baseado na busca com ingredientes, sugestão de ingredien
 
 # Considerações
 
-O Projeto ainda Não se Encontra em produção. Análise prévia em andamento
+O Projeto ainda Não se Encontra em produção. Análise prévia em andamento.
+
+Versão 0.0
 
